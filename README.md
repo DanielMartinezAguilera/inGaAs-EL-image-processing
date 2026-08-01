@@ -43,7 +43,7 @@ The repository organizes the complete workflow into three Python modules designe
 
 ##  Attached Documentation
 
-* [`Presentacion_TFG.pdf`](./docs/Presentacion_TFG.pdf) – Thesis defense presentation slides.
+* [`Presentacion_TFG.pptx`](./docs/Presentacion_TFG.pptx) – Thesis defense presentation slides.
 * [`Memoria_TFG.pdf`](./docs/Memoria_TFG.pdf) – Full Bachelor's Thesis manuscript.
 """
 
@@ -89,7 +89,7 @@ El repositorio organiza el flujo completo de trabajo en tres módulos en Python 
 
 ##  Documentación Adjunta
 
-* [`Presentacion_TFG.pdf`](./docs/Presentacion_TFG.pdf) – Diapositivas de la defensa.
+* [`Presentacion_TFG.pptx`](./docs/Presentacion_TFG.pptx) – Diapositivas de la defensa.
 * [`Memoria_TFG.pdf`](./docs/Memoria_TFG.pdf) – Memoria completa del Trabajo de Fin de Grado.
 """
 
