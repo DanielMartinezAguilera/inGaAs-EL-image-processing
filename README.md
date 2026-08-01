@@ -48,10 +48,7 @@ The repository organizes the complete workflow into three Python modules designe
 * [`Memoria_TFG.pdf`](./docs/Memoria_TFG.pdf) – Full Bachelor's Thesis manuscript.
 """
 
-# Write README.es.md (Spanish version)
-readme_es = """# Sistema de Adquisición y Procesado de Imágenes de Electroluminiscencia (EL)
-
->  *Leer esto en [English](./README.md)*
+# README.es.md (Spanish version)
 
 Este repositorio contiene el código fuente para la automatización de capturas, el procesamiento matricial y el análisis fotométrico desarrollado en el ámbito del Trabajo de Fin de Grado por **Daniel Martínez Aguilera** para la **Universidad de Valladolid (UVa)**. Específicamente, se centra en las áreas de Física Aplicada, Electrónica y Fotónica.
 
