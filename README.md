@@ -1,10 +1,7 @@
 # inGaAs-EL-image-processing
 Python pipeline for automated InGaAs image acquisition, matrix processing, and 3D EL characterization (UVa Bachelor's Thesis).
 
-# Write README.md (English version)
-readme_en = """# Electroluminescence (EL) Image Acquisition and Processing System
-
->  *Read this in [Español](./README.es.md)*
+# README.md (English version)
 
 This repository contains the source code for automated image acquisition, matrix processing, and photometric analysis developed as part of the Bachelor's Thesis by **Daniel Martínez Aguilera** at the **University of Valladolid (UVa)**. The work falls within the fields of Applied Physics, Electronics, and Photonics.
 
